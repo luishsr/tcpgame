@@ -1,2 +1,4 @@
-github.com/luishsr/tcpconnector v0.0.0-20230426170930-9d84fea5be1f h1:gIIewNhhChwaZIhDWrS2D0Ij3Ug2ZLcyMFp8zDU8Sv0=
-github.com/luishsr/tcpconnector v0.0.0-20230426170930-9d84fea5be1f/go.mod h1:Er0sw9mZ/n51Dsdn3oEbgrZGu98z0DAdKXlyiCyF9n0=
+github.com/luishsr/tcpconnector v0.0.0-20230426213024-be28a3d7893f h1:SfYu7IHMhtzIixySVJnyB+1KADu+HGDzXe8WRFFAfaU=
+github.com/luishsr/tcpconnector v0.0.0-20230426213024-be28a3d7893f/go.mod h1:Er0sw9mZ/n51Dsdn3oEbgrZGu98z0DAdKXlyiCyF9n0=
+github.com/luishsr/tcphost v0.0.0-20230426221519-32a7c5af3e50 h1:tieAcUQzCTsqBMUs+sl49+/irbKaOvOdPLBvETJjc3o=
+github.com/luishsr/tcphost v0.0.0-20230426221519-32a7c5af3e50/go.mod h1:aXOL+s6TDdaP+LwR3dZGfH6RnO3BK2Eo1iv3JJ3b+s4=
